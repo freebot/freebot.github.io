@@ -1,0 +1,119 @@
+---
+author: freebot
+comments: true
+date: 2014-03-24 19:49:20+00:00
+layout: post
+link: https://jorgeikeda.wordpress.com/2014/03/24/gracobots/
+slug: gracobots
+title: GracoBots
+wordpress_id: 6277
+categories:
+- Sin categoría
+---
+
+[https://www.flickr.com/photos/68420805@N07/13387213765/player/02ed3d9e7f](https://www.flickr.com/photos/68420805@N07/13387213765/player/02ed3d9e7f)
+El día de ayer, 23 de marzo de 2014, un grupo de ciudadanos colocó ratoneras afuera del Palacio de Gobierno de Morelos para capturar alguna de las ratas que utilizan nuestros recursos públicos para atacar y denostar tanto a periodistas como a activistas defensores de los derechos humanos a través de los denominados "GracoBots".
+Los "GracoBots" son troles (según la mitología escandinava, monstruo maligno que habita en bosques o grutas) o personas contratadas por el Gobierno del Estado de Morelos con el único fin de acosar a quienes discrepan de su opinión. ¿Cuándo se había visto que el gobierno cuente con una Dirección de Redes Sociales para atosigar a los opositores? Sólo es comparable al caso de la fenecida Dirección Federal de Seguridad (DFS) dedicada, entre otras labores además de torturar a la disidencia del régimen, a perseguir el delito de disolución social, cualquier cosa que eso signifique. 
+Un gobierno que ataca y viola los derechos humanos de periodistas y activistas de los derechos humanos no puede ser democrático. Norberto Bobbio fijó el estándar de la cualidad de lo democrático en el respeto a los derechos humanos. También estableció un ámbito de validez material a la legislación del Estado y, de acuerdo con este criterio, no serán válidas aquellas leyes que atenten contra los derechos humanos. En nuestro caso, el párrafo segundo del artículo primero de la Constitución Política de los Estados Unidos Mexicanos recoge este principio y establece que todas las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución y con los tratados internacionales en la materia favoreciendo en todo tiempo a las personas la protección más amplia. 
+Una ley, decreto o reglamento que tenga como finalidad crear una dependencia llamada "Dirección de Redes Sociales" para amedrentar a los opositores y cometer delitos contra la libertad de expresión no puede tener validez. Y los funcionarios públicos que lo hagan, deben saber que están cometiendo un delito y pueden pasar una temporada tras las rejas. 
+El tercer párrafo del artículo primero de la Constitución va más allá y establece la obligación que tienen todas las autoridades del país, en el ámbito de sus competencias, de promover, respetar, proteger y garantizar los derechos humanos. Un funcionario público que insulta, amenaza y reta a un ciudadano que, en legítimo ejercicio de sus derechos, protesta pacíficamente y se manifiesta en contra de una medida de gobierno, comete un delito contra la libertad de expresión y el Estado tiene la obligación de perseguir y sancionar a dicho funcionario público.
+Así le ocurrió a este humilde bloguero que por participar en la rodada contra el "Programa Moto Segura" salió insultado, amenazado y, como si se tratara de un pleito de cantina, retado por un funcionario público. Por lo que me vi obligado a interponer una queja ante la Comisión de Derechos Humanos del Estado de Morelos (expediente G/151/2014-EM) y una denuncia ante el Ministerio Público por lo que respecta a las amenazas (SJ 01/3131/2014).
+El inciso 1 del artículo 13 de la Convención Americana sobre Derechos Humanos establece que:
+
+
+
+
+<blockquote>Toda persona tiene derecho a la libertad de pensamiento y de expresión.  Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole, sin consideración de fronteras, ya sea oralmente, por escrito o en forma impresa o artística, o por cualquier otro procedimiento de su elección.</blockquote>
+
+
+
+Y el inciso 2 del mismo artículo 13 de la Convención establece que nadie puede estar sujeto a censura previa, más que para asegurar el respeto a los derechos o a la reputación de los demás o la protección de la seguridad nacional, el orden público o la salud o la moral públicas, y que deben estar expresamente fijadas por la ley. 
+En la [Declaración Conjunta sobre los Delitos contra la Libertad de Expresión (2012-2)](http://www.oas.org/es/cidh/expresion/showarticle.asp?artID=905&lID=2) los Estados firmantes se comprometen a:
+
+
+
+
+<blockquote>
+a.       Los funcionarios estatales deberían repudiar de manera inequívoca los ataques perpetrados como represalia por el ejercicio de la libertad de expresión, y deberían abstenerse de efectuar declaraciones que posiblemente incrementen la vulnerabilidad de quienes son perseguidos por ejercer su derecho a la libertad de expresión.
+ 
+b.       Los Estados deberían reflejar claramente en sus sistemas jurídicos y sus prácticas, como se señala a continuación, que los delitos contra la libertad de expresión revisten especial gravedad, puesto que representan un ataque directo contra todos los derechos fundamentales.
+ 
+c.       Lo anterior implica, en particular, que los Estados deberían:
+i.         adoptar medidas especiales de protección para personas que posiblemente sean perseguidas por sus afirmaciones en entornos en los que este problema sea recurrente;
+ii.       asegurar que los delitos contra la libertad de expresión estén sujetos a investigaciones y procedimientos judiciales independientes, rápidos y efectivos; y
+iii.      asegurar que las víctimas de delitos contra la libertad de expresión tengan acceso a reparaciones adecuadas.
+ 
+d.       En situaciones de conflicto armado, los Estados deberían respetar los estándares establecidos en el artículo 79 del Protocolo I Adicional a los Convenios de Ginebra, de 1977, que dispone que los periodistas gozan del mismo estatus y protección de que gozan los civiles, quienes lo mantendrán hasta tanto no realicen acciones que conduzcan efectivamente a cambiar dicho estatus.</blockquote>
+
+
+
+Debo decir que si el encargado de perseguir los delitos depende del Poder Ejecutivo y el funcionario público que me amenazó es dependiente de aquel, pues tengo serias dudas sobre la imparcialidad de quien debe perseguir el delito. ¿Cuáles son las obligaciones de prevenir y prohibir en la declaración?
+
+
+
+
+<blockquote>
+a.       Los Estados tienen la obligación de adoptar medidas para prevenir delitos contra la libertad de expresión en países donde exista un riesgo de que estos ocurran y en situaciones específicas en que las autoridades sepan o deberían estar al tanto de la existencia de un riesgo real e inminente de que se produzcan tales delitos, y no únicamente en casos en que las personas en riesgo soliciten protección del Estado.
+ 
+b.       Estas obligaciones incluyen la adopción de las siguientes disposiciones legales:
+i.         la categoría de delitos contra la libertad de expresión debería estar reconocida por el derecho penal, ya sea en forma expresa o como una circunstancia agravante que suponga la imposición de penas más severas para tales delitos en razón de su gravedad; y
+ii.       los delitos contra la libertad de expresión, y el delito de obstrucción de justicia en relación con estos, deberían estar sujetos a imprescriptibilidad o plazos de prescripción ampliados (por ejemplo, ampliando el plazo legal dentro del cual debe concluir la investigación criminal).
+ 
+c.       Estas obligaciones incluyen la adopción de las siguientes medidas:
+i.         se debería brindar capacitación adecuada sobre delitos contra la libertad de expresión, incluidos aquellos relacionados específicamente con cuestiones de género, a funcionarios encargados de aplicar la ley, incluidos policías y fiscales, así como a miembros de las fuerzas armadas cuando sea necesario;
+ii.       se deberían formular e implementar pautas y manuales de actuación para funcionarios encargados de aplicar la ley que intervengan en casos de delitos contra la libertad de expresión;
+iii.      el Estado debería ofrecer posibilidades de capacitación a personas que puedan estar en riesgo de convertirse en víctimas de delitos contra la libertad de expresión, y este tema debería además ser tratado en los cursos universitarios sobre periodismo y comunicaciones;
+iv.     se deberían establecer sistemas para asegurar el acceso efectivo a información sobre las circunstancias, la investigación y los procesos judiciales relacionados con delitos contra la libertad de expresión, incluido el acceso por parte de los medios de comunicación a las audiencias judiciales, y en todo caso, deben adoptarse medidas para asegurar garantías apropiadas de confidencialidad cuando ello sea necesario; y
+v.       se debería evaluar la posibilidad de establecer medidas generales de protección como atención de la salud, seguros y otros programas de beneficios destinados a las personas que puedan estar en riesgo de convertirse en víctimas de delitos contra la libertad de expresión.</blockquote>
+
+
+
+Si el Estado hubiera cumplido con su obligación de capacitar a su funcionario público, este no me hubiera amenazado ni vulnerado la esfera de mis derechos. 
+¿Y cuáles son las obligaciones de protección a las que se adhieren los Estados?
+
+
+
+
+<blockquote>a.       Los Estados deberían asegurar que se adopten medidas de protección, efectivas y concretas, en forma urgente destinadas a aquellas personas que puedan ser atacadas por ejercer su derecho a la libertad de expresión.
+ 
+b.       Se deberían crear programas de protección especializados, que tengan en cuenta las necesidades y los obstáculos locales, en entornos donde exista un riesgo continuo y grave de que se produzcan delitos contra la libertad de expresión. Estos programas especializados deberían incluir una variedad de medidas de protección, que deberían adecuarse a las circunstancias individuales de la persona en riesgo, incluido el género, la necesidad o el deseo de continuar llevando a cabo las mismas actividades profesionales y sus circunstancias sociales y económicas.
+ 
+c.       Los Estados deberían mantener estadísticas detalladas y desglosadas sobre delitos contra la libertad de expresión y el juzgamiento de tales delitos, entre otras cosas, para facilitar una planificación más efectiva de las iniciativas de prevención.</blockquote>
+
+
+
+Vamos, no he recibido ninguna medida de protección, ni siquiera las medidas cautelares personales que solicité ante el Ministerio Público y la cual consiste en que la prohibición de convivir, acercarse, comunicarse con mi persona, por lo que el acoso ha continuado. 
+¿Qué otras obligaciones adquirieron los Estados firmantes?
+
+
+
+
+<blockquote>
+ Cuando se comete un delito contra la libertad de expresión, los Estados deberían poner en marcha una investigación independiente, rápida y efectiva que permita juzgar ante tribunales imparciales e independientes tanto a quienes cometieron estos delitos como a sus autores intelectuales.
+ 
+Tales investigaciones deberían cumplir los estándares mínimos enunciados a continuación.
+ 
+a.       Independencia
+                     i.            La investigación debería ser llevada a cabo por un órgano que sea independiente de quienes estén implicados en los sucesos. Esto supone independencia jerárquica e institucional de tipo formal, además de la adopción de aspectos prácticos para asegurar tal independencia.
+                   ii.            Cuando existan alegatos creíbles sobre la participación de agentes del Estado, la investigación debería ser efectuada por una autoridad externa a la jurisdicción o al ámbito de incumbencia de tales autoridades, y los investigadores deberían estar en condiciones de examinar exhaustivamente todos los alegatos.
+                  iii.            Se debería establecer un sistema efectivo para recibir y tramitar denuncias vinculadas con investigaciones sobre delitos contra la libertad de expresión que estén siendo impulsadas por funcionarios competentes. Dicho sistema deberá conservar suficiente independencia respecto de tales funcionarios y sus empleadores, y actuar de manera transparente.
+                 iv.            Cuando la gravedad de la situación lo amerite, especialmente en casos de delitos frecuentes y reiterados contra la libertad de expresión, se debería evaluar la posibilidad de establecer unidades de investigación específicas y especializadas –con recursos suficientes y la capacitación adecuada para actuar de manera eficiente y efectiva – encargadas de investigar delitos contra la libertad de expresión.
+ 
+b.       Celeridad
+                     i.            Las autoridades deberían tomar todos los recaudos razonables para agilizar las investigaciones, como por ejemplo, intervenir tan pronto se interponga una denuncia oficial o se presenten pruebas creíbles sobre un ataque contra la libertad de expresión.
+ 
+c.       Efectividad
+                     i.            Se deberían asignar recursos y oportunidades de capacitación suficientes para asegurar que las investigaciones sobre delitos contra la libertad de expresión sean exhaustivas, rigurosas y efectivas, y que todos los aspectos de tales delitos se examinen minuciosamente.
+                   ii.            Las investigaciones deberían facilitar la identificación y el juzgamiento de los responsables de delitos contra la libertad de expresión, incluidos sus autores directos y autores intelectuales, así como de quienes actúan en connivencia en carácter de autores, colaboradores, cómplices o encubridores de tales delitos.
+                  iii.            Cuando existan evidencias de que un delito consumado pueda ser un delito contra la libertad de expresión, la investigación debería avanzar dando por supuesto que se trata de un delito de tal naturaleza hasta tanto se demuestre lo contrario, y deberían agotarse todas las vías de investigación relevantes vinculadas con los actos de expresión de las víctimas.
+                 iv.            Los organismos encargados de la aplicación de la ley deberían adoptar todas las medidas necesarias para recabar las pruebas relevantes, y todos los testigos deberían ser interrogados con el fin de establecer la verdad.
+                   v.            Las víctimas, o en casos de muerte, secuestro o desaparición, sus familiares más cercanos, deberían contar con un acceso efectivo al procedimiento. Como mínimo, la víctima o el familiar más cercano debería poder intervenir en el procedimiento en la medida que resulte necesario para resguardar sus intereses legítimos. En la mayoría de los casos, esto implicará conceder acceso a ciertas etapas de los procedimientos, así como a documentos relevantes, para asegurar que la participación sea efectiva.
+                 vi.            Las organizaciones de la sociedad civil deberían estar autorizadas para interponer denuncias sobre delitos contra la libertad de expresión –lo cual resulta particularmente relevante en casos de asesinatos, secuestros o desapariciones en que los familiares más cercanos no tengan interés o posibilidades de hacerlo – e intervenir en el proceso penal.
+                vii.            Las investigaciones deberían proceder de manera transparente, siempre que esto no repercuta negativamente en su avance.
+              viii.            Las restricciones a la difusión de información periodística sobre causas judiciales relativas a delitos contra la libertad de expresión deberían limitarse a casos absolutamente excepcionales donde existan intereses claramente preponderantes que prevalezcan sobre la necesidad de transparencia que resulta fundamental en estos casos.
+                 ix.            Además de las investigaciones penales, se deberían poner en marcha procedimientos disciplinarios cuando existan pruebas de que funcionarios públicos hayan incurrido en violaciones contra la libertad de expresión en el transcurso de su desempeño profesional.
+ </blockquote>
+
+
+
+Como se puede apreciar en el apartado de "Independencia"; "la investigación debería ser llevada a cabo por un órgano que sea independiente de quienes estén implicados en los sucesos. Esto supone independencia jerárquica e institucional de tipo formal, además de la adopción de aspectos prácticos para asegurar tal independencia." Por lo que también denuncié los hechos ante la  Fiscalía Especial para la Atención de Delitos cometidos contra la Libertad de Expresión de la Procuraduría General de la República (CEDAC-038056-2014-03-5). Como tampoco veo celeridad o efectividad en este órgano, pues tuve que subir mi súplica a la Comisión Interamericana de Derechos Humanos y espero que ésta llame a cuentas al Estado mexicano sobre las obligaciones que adquirió y está incumpliendo. De ahí para delante no hay más recurso que lo agarren a uno confesado, que tenga misericordia el Dios de los blogueros, o que la Autoridad reconozca su error y deje de agraviar a los que expresan una opinión disidente en tuits, blogs y otras redes sociales.  

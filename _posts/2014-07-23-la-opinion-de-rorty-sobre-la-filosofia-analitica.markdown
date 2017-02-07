@@ -1,0 +1,54 @@
+---
+author: freebot
+comments: true
+date: 2014-07-23 22:37:42+00:00
+layout: post
+link: https://jorgeikeda.wordpress.com/2014/07/23/la-opinion-de-rorty-sobre-la-filosofia-analitica/
+slug: la-opinion-de-rorty-sobre-la-filosofia-analitica
+title: La opinión de Rorty sobre la filosofía analítica
+wordpress_id: 6301
+categories:
+- Sin categoría
+---
+
+Aunque parecería que Rorty en su obra _Filosofía y futuro_ se burla de los filósofos que se adscriben a la filosofía analítica, en realidad Rorty critica los intentos de la filosofía analítica por convertirse en ciencia.
+
+
+<blockquote>Al final demostraré, sin embargo, que aquellos filósofos analíticos que más contribuyeron a socavar las exigencias científicas de su movimiento hicieron una aportación duradera y muy valiosa a la filosofía.</blockquote>
+
+
+Para Rorty lo que distinguió a la filosofía analítica fue “el paso sobre la disquisición de la experiencia a la disquisición sobre el lenguaje”.
+
+
+<blockquote>El giro lingüístico es común a toda la filosofía del siglo XX: es tan evidente en Heidegger, Gadamer, Habermas y Derrida, como en Canarp, Ayer, Austin y Wittgenstein.</blockquote>
+
+
+Rorty describe la situación de la filosofía en las universidades norteamericanas en las que se le ubicaba en las facultades de ciencias sociales y no en las de humanidades. El autor comenta que antes de que la filosofía analítica reinara en las universidades norteamericanas, la historia de la filosofía predominaba tanto en países anglófonos como no anglófonos.
+
+
+<blockquote>Se esperaba que cualquiera que enseñara filosofía fuera capaz de hablar de los méritos de respectivos de Platón y Aristóteles, de Hobbes y Spinoza, de Kant y Hegel, de Nietzsche y Mill.</blockquote>
+
+
+En opinión de Rorty, fue Willard van Orman Quine quien estableció el gusto por la filosofía analítica y el desprecio por la filosofía de la historia. El discípulo de Carnap en sus épocas de estudiante se puso como objetivo leer tan pocos textos canónicos como fuera posible y recomendaba esta práctica a sus alumnos en Harvard. Rorty comenta que este tipo de actitudes eran comunes también en Princeton donde los estudiantes competían entre ellos en pericia argumentativa y sagacidad dialéctica en lugar de adquirir una amplia gama de autores.
+
+
+<blockquote>Entre los filósofos anglófonos, lo más importante es disponer de capacidades puramente argumentativas al estilo de partes en litigio ante un tribunal.</blockquote>
+
+
+Ello no ha impedido, dice el autor, un _comeback_ o regreso de la historia de la filosofía en los Estado Unidos; estudios en los que se elude el tema de la historia del espíritu o que no tienen conexión con los grandes temas de la filosofía actual.
+Según Rorty, para un filósofo no analítico sería normal que un filósofo estuviera subscrito al _The New York Review of Books_ pero extraño que lo hiciera en _Scientific American._
+
+
+<blockquote>El típico lector de Heidegger y Derrida ve a las ciencias duras como doncellas del progreso tecnológico y no como ocasiones de vislumbrar la realidad sin trabas. Ese lector estará de acuerdo con Kierkegaard y Nietzsche en que Sócrates y Platón se equivocaron al creer que la búsqueda de la verdad objetiva es la actividad más valiosa y la más distintivamente humana de la que somos capaces. La mayoría de esos lectores estarán de acuerdo con Nietzsche en que los filósofos griegos no fueron capaces de ver fue la prioridad del arte y la literatura frente a las ciencias y las matemáticas, es decir la necesidad de ver las ciencias desde la perspectiva del arte y de la vida. Platón concibió una educación orientada por la ciencia, mientras que Nietzsche concibió una cultura en cuyo centro estaría el arte, y en la cual reconocemos que son los poetas los que determinan nuestros objetivos mientras que los científicos simplemente suministran medios para alcanzar esos objetivos.</blockquote>
+
+
+La distinción introducida por el autor parece pertinente dado que en la actualidad se pone énfasis en las ciencias duras y las ingenierías, por encima de las ciencias sociales y las humanidades. Este “conocimiento objetivo” era para Kierkegaard meramente accidental, lo importante era transformar el “individuo existente”.
+
+
+<blockquote>El conocimiento que no está vuelto hacia el interior en la reflexión sobre la interioridad refiriéndose a la existencia, es un conocimiento accidental, su grado y alcance son, esencialmente considerados, indiferentes…</blockquote>
+
+
+Para Rorty, el fenómeno de la transformación existencial es tan importante en las humanidades como lo es el fenómeno del consenso entre expertos en la cultura científica.
+
+
+<blockquote>Los historiadores, críticos literarios y filósofos que son importantes pero que no llegan a ser brillantes tienen la misma relación con Kant y Shakespeare que alguien que generalmente es galardonado con el premio nobel de física tiene con Einstein. Aunque no desencadenan transformaciones, facilitan la siguiente ola de transformación.</blockquote>

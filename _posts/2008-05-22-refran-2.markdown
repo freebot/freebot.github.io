@@ -1,0 +1,12 @@
+---
+author: freebot
+comments: true
+date: 2008-05-22 22:25:47+00:00
+layout: post
+link: https://jorgeikeda.wordpress.com/2008/05/22/refran-2/
+slug: refran-2
+title: Refrán 2
+wordpress_id: 43
+---
+
+La **tinta** más pobre  de color vale más que la mejor **memoria**

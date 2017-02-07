@@ -1,0 +1,53 @@
+---
+author: freebot
+comments: true
+date: 2014-08-22 22:26:03+00:00
+layout: post
+link: https://jorgeikeda.wordpress.com/2014/08/22/principios-constitucionales-en-materia-electoral-en-mexico/
+slug: principios-constitucionales-en-materia-electoral-en-mexico
+title: Principios constitucionales en materia electoral en México
+wordpress_id: 6293
+categories:
+- Sin categoría
+---
+
+En el texto “[Los principios constitucionales de la materia electoral en México”](http://www.juridicas.unam.mx/publica/librev/rev/qdiuris/cont/11/cnt/cnt3.pdf) de los coautores Guillermo Sierra Fuentes y Víctor Zuri Zapata Leos, éstos citan a Zagrebelsky quien alega que distinguir entre reglas y principios es tan importante como la distinción entre las leyes y la Constitución. De acuerdo con este autor, en las leyes prevalecen las reglas y en la Constitución, los principios.
+
+
+<blockquote>Los principios desempeñan el papel constitutivo del orden jurídico y las reglas que en todo caso se encuentren en una Constitución, no son más que leyes reforzadas por su forma especial, y como se agotan en si mismas no tienen fuerza constitutiva fuera de lo que ellas mismas significan.</blockquote>
+
+
+Los coautores también citan a Alexy, Prieto Sanchís, Zagrebelsky en cuanto a la distinción que estos autores hacen entre ponderación y subsunción. La primera se aplica a los principios; la segunda, a las reglas.
+
+
+<blockquote>Ahora bien, hay quienes sostienen que no hay una distinción cualitativa entre reglas y principios. Las reglas no funcionan a la manera de todo o nada –como lo asevera Dworkin– sino que pueden competir con los principios. Así, en el razonamiento jurisdiccional hay ciertamente una interacción entre reglas y principios. No sólo existen casos de conflictos entre reglas y conflictos entre principios, sino también colisiones entre reglas y principios.</blockquote>
+
+
+Los coautores además citan a Manuel Atienza y Juan Ruiz Manero, para quienes cuando hay en juego dos principios, tiene que surgir una nueva regla a partir de estos principios. La “concreción” consiste en transformar los principios en reglas.
+
+
+<blockquote>En palabras de Guastini,concretizar un principio significa determinar las reglas implícitas (en sentido amplio) que pueden obtenerse del mismo; y por lo tanto en primer término, determinar su ámbito de aplicación, decidir a cuáles clases de supuestos concretos es aplicable, y en segundo lugar, determinar al mismo tiempo sus excepciones o subclases de supuestos a los que no resulta aplicable. Por ejemplo ¿el principio de autodeterminación de pueblos indígenas permite o no la restricción de voto universal? o ¿el principio de igualdad permite o no al legislador establecer las cuotas de género en las listas de candidaturas?</blockquote>
+
+
+Así, los principios rectores de la función electoral; certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad, no están definidos por la ley y dejan abierta la posibilidad al juzgador de concretizar las reglas a partir de estos principios.
+
+
+<blockquote>Los denominados principios rectores de la función electoral tienen tal relevancia, que la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación considera, que su conculcación por parte de las propias autoridades encargadas de preparar, desarrollar y vigilar los comicios, equivale a una violación sustancial que puede ser determinante para el resultado de la elección, y dar lugar a decretar la nulidad de la misma.</blockquote>
+
+
+Los coautores mencionan que las definiciones de la Suprema Corte y las de la Sala Superior difieren, pero para los fines de este comentario se citan las de la Sala Superior que en las sentencias SUP-RAP-038/99; SUP-RAP-041/99; y SUP-RAP-043/ 99; define el principio de certeza:
+
+
+<blockquote>“…el principio de certeza se refiere a la estructura misma del proceso electoral, regulando y obligando a la autoridad electoral, para que cada uno de los actos de la misma sean verídicos, esto es, reporten fiel y únicamente lo que en realidad ha sucedido…Consecuencia de dicha certeza es el pleno convencimiento de los actores en el proceso electoral de que los actos de la autoridad son veraces, reales y ajusta- dos a los hechos, y por tanto hay una plena confianza en la misma…Por ende, exige que los actos y procedimiento electorales se basen en un conocimiento seguro de lo que es, sin existir manipulaciones, fraudes o adulteraciones, con independencia del sentir o actuar de las partes en la contienda…”</blockquote>
+
+
+Sobre el principio de objetividad los coautores citan a la Sala Superior que lo define como:
+
+
+<blockquote>“el principio de objetividad implica que todas las apreciaciones y criterios de los organismos electorales deben sujetarse a las circunstancias actuales de los acontecimientos y no a interpretaciones subjetivas ni inducidas de los hechos, o a lo que quisieran que fuera”</blockquote>
+
+
+Los coautores retoman una distinción de la doctrina entre principios explícitos y principios implícitos. Los primeros están explícitamente enunciados en la ley, mientras que los segundos derivan de otras normas del sistema. Por lo que los coautores agregan a esta lista los principios implícitos en los artículos 41, fracción IV (actualmente fracción VI) y 116, fracción IV, inciso g) (actualmente el l) ) de la Constitución Federal, que son los principios de constitucionalidad y de legalidad.
+
+
+<blockquote>En conclusión, en el ámbito del derecho electoral mexicano, existen principios jurídicos previstos expresamente en el ámbito constitucional, que, junto con otros principios implícitos, tienen un carácter fundamental, ya que dan coherencia e informan a este sector normativo del orden jurídico nacional; constituyen parámetros de la actuación de los órganos electorales y sirven como criterios interpretativos del derecho electoral, o bien, desempeñan una función integradora del mismo.</blockquote>
