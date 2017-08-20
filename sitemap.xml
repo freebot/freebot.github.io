@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jorgeikeda.com/post/2017-08-16-reaccionario/</loc>
+    <lastmod>2017-08-19T23:03:18-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jorgeikeda.com/post/2017-07-30-Marcha-por-Morelos/</loc>
     <lastmod>2017-07-30T13:51:52-05:00</lastmod>
   </url>
@@ -2658,7 +2663,7 @@
   
   <url>
     <loc>http://jorgeikeda.com/</loc>
-    <lastmod>2017-07-30T13:51:52-05:00</lastmod>
+    <lastmod>2017-08-19T23:03:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2718,7 +2723,7 @@
   
   <url>
     <loc>http://jorgeikeda.com/post/</loc>
-    <lastmod>2017-07-30T13:51:52-05:00</lastmod>
+    <lastmod>2017-08-19T23:03:18-05:00</lastmod>
     <priority>0</priority>
   </url>
   
