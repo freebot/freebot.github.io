@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: freebot.github.io
-Token: c6e219f10f1ad7e47a343cda20877f86c38c4b3bd38f231eb7973dbaf4ab74d4 
