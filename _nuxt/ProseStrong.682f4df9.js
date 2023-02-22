@@ -1,0 +1,1 @@
+import{e as r}from"./entry.d5ee1a68.js";import{a2 as o,a3 as t,ar as n}from"./router.c1423e96.js";const s={};function a(e,c){return o(),t("strong",null,[n(e.$slots,"default")])}const _=r(s,[["render",a]]);export{_ as default};
