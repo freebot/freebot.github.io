@@ -1,1 +1,0 @@
-import{e as o}from"./entry.56282b06.js";import{_ as t,$ as c,av as r,ad as a,ar as n}from"./app.config.8b805190.js";const s={};function m(_,i){const e=n("TwicImg");return t(),c("div",null,[r(" Próximamente... "),a(e,{src:"/tv/"})])}const l=o(s,[["render",m]]);export{l as default};
