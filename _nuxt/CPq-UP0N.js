@@ -1,0 +1,1 @@
+import{_ as o,c as s,b as n,r as t,o as c}from"./BMGElIhW.js";const r={},_={class:"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12"};function a(p,l){const e=t("ContentDoc");return c(),s("div",_,[n(e,{class:"prose prose-lg dark:prose-invert max-w-none"})])}const x=o(r,[["render",a]]);export{x as default};
