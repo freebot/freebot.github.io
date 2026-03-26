@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HydroMate Support</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0a0f1e;
+      color: #e0e8ff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px 60px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .logo {
+      width: 80px;
+      height: 80px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, #1a8fff, #00e5ff);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 40px;
+      margin: 0 auto 16px;
+      box-shadow: 0 8px 32px rgba(0,229,255,0.3);
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      background: linear-gradient(135deg, #1a8fff, #00e5ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      color: #8899bb;
+      margin-top: 6px;
+      font-size: 15px;
+    }
+
+    .card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 20px;
+      padding: 32px;
+      width: 100%;
+      max-width: 560px;
+      backdrop-filter: blur(10px);
+    }
+
+    .faq-section { margin-bottom: 36px; }
+
+    .faq-section h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #1a8fff;
+      margin-bottom: 16px;
+    }
+
+    details {
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      padding: 14px 0;
+    }
+
+    details:last-child { border-bottom: none; }
+
+    summary {
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #cdd8f0;
+    }
+
+    summary::after {
+      content: "+";
+      font-size: 20px;
+      color: #1a8fff;
+      transition: transform 0.2s;
+    }
+
+    details[open] summary::after { content: "−"; }
+
+    details p {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #8899bb;
+      line-height: 1.6;
+    }
+
+    .form-section h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #1a8fff;
+      margin-bottom: 20px;
+    }
+
+    .field { margin-bottom: 16px; }
+
+    label {
+      display: block;
+      font-size: 13px;
+      color: #8899bb;
+      margin-bottom: 6px;
+    }
+
+    input, select, textarea {
+      width: 100%;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 10px;
+      padding: 12px 14px;
+      color: #e0e8ff;
+      font-size: 15px;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    input:focus, select:focus, textarea:focus {
+      border-color: #1a8fff;
+    }
+
+    select option { background: #0a0f1e; }
+
+    textarea { resize: vertical; min-height: 120px; }
+
+    button[type="submit"] {
+      width: 100%;
+      padding: 14px;
+      background: linear-gradient(135deg, #1a8fff, #00e5ff);
+      border: none;
+      border-radius: 12px;
+      color: #fff;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      margin-top: 8px;
+      letter-spacing: 0.3px;
+      transition: opacity 0.2s, transform 0.1s;
+    }
+
+    button[type="submit"]:hover { opacity: 0.9; }
+    button[type="submit"]:active { transform: scale(0.98); }
+
+    .success {
+      display: none;
+      text-align: center;
+      padding: 24px 0 8px;
+    }
+
+    .success .checkmark { font-size: 48px; margin-bottom: 12px; }
+    .success h3 { font-size: 20px; margin-bottom: 8px; color: #00e5ff; }
+    .success p { color: #8899bb; font-size: 14px; }
+
+    footer {
+      margin-top: 32px;
+      text-align: center;
+      font-size: 13px;
+      color: #4a5a7a;
+    }
+
+    footer a { color: #1a8fff; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">💧</div>
+  <h1>HydroMate Support</h1>
+  <p class="subtitle">Water &amp; Plant Tracker — We're here to help</p>
+</header>
+
+<div class="card">
+
+  <!-- FAQ -->
+  <div class="faq-section">
+    <h2>Frequently Asked Questions</h2>
+
+    <details>
+      <summary>How do I set my daily water goal?</summary>
+      <p>Open HydroMate and go to <strong>Settings → Daily Goal</strong>. You can set a custom amount in ml or oz, or let the app calculate it automatically based on your body weight from Apple Health.</p>
+    </details>
+
+    <details>
+      <summary>Why isn't HydroMate reading from Apple Health?</summary>
+      <p>Go to <strong>iPhone Settings → Health → Apps → HydroMate</strong> and make sure Read &amp; Write permissions are enabled for Body Weight and Water.</p>
+    </details>
+
+    <details>
+      <summary>How do I restore my purchase?</summary>
+      <p>Tap the <strong>Settings</strong> icon in the app, then tap <strong>Restore Purchases</strong>. Make sure you're signed in with the same Apple ID used for the original purchase.</p>
+    </details>
+
+    <details>
+      <summary>The app shows the wrong streak — how do I fix it?</summary>
+      <p>Streaks are calculated based on your logged entries. If you log water before midnight, it counts for that day. Entries can be added retroactively from the <strong>History</strong> tab.</p>
+    </details>
+
+    <details>
+      <summary>How do I delete my data?</summary>
+      <p>Go to <strong>Settings → Data &amp; Privacy → Delete All Data</strong>. This will permanently remove all water logs from the app. Health data written to Apple Health must be deleted separately from the Health app.</p>
+    </details>
+  </div>
+
+  <!-- Contact Form -->
+  <div class="form-section">
+    <h2>Contact Support</h2>
+
+    <form id="supportForm">
+      <div class="field">
+        <label for="name">Your Name</label>
+        <input type="text" id="name" name="name" placeholder="Jorge" required />
+      </div>
+
+      <div class="field">
+        <label for="email">Email Address</label>
+        <input type="email" id="email" name="email" placeholder="you@example.com" required />
+      </div>
+
+      <div class="field">
+        <label for="topic">Topic</label>
+        <select id="topic" name="topic" required>
+          <option value="" disabled selected>Select a topic…</option>
+          <option value="bug">Bug / App Crash</option>
+          <option value="purchase">Purchase / Subscription</option>
+          <option value="health">Apple Health Integration</option>
+          <option value="data">Data &amp; Privacy</option>
+          <option value="feature">Feature Request</option>
+          <option value="other">Other</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Describe your issue or question…" required></textarea>
+      </div>
+
+      <button type="submit">Send Message</button>
+    </form>
+
+    <div class="success" id="successMsg">
+      <div class="checkmark">✅</div>
+      <h3>Message Sent!</h3>
+      <p>We'll get back to you at your email address within 1–2 business days.</p>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  <p>HydroMate: Water &amp; Plant · <a href="mailto:freebot.developer@gmail.com">freebot.developer@gmail.com</a></p>
+  <p style="margin-top:6px">© 2026 Jorge Ikeda · <a href="https://freebot.github.io">freebot.github.io</a></p>
+</footer>
+
+<script>
+  document.getElementById('supportForm').addEventListener('submit', function(e) {
+    e.preventDefault();
+    const form = this;
+    const data = {
+      name: form.name.value,
+      email: form.email.value,
+      topic: form.topic.value,
+      message: form.message.value
+    };
+    // Send via Formspree (free tier — no backend needed)
+    fetch('https://formspree.io/f/xpwzgvob', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify(data)
+    })
+    .then(r => r.json())
+    .then(() => {
+      form.style.display = 'none';
+      document.getElementById('successMsg').style.display = 'block';
+    })
+    .catch(() => {
+      // Fallback: open mailto
+      window.location.href = 'mailto:freebot.developer@gmail.com?subject=HydroMate Support: ' + encodeURIComponent(data.topic) + '&body=' + encodeURIComponent(data.message);
+    });
+  });
+</script>
+
+</body>
+</html>
